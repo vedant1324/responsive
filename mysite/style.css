@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #40514E;
+
+}
+.internal{
+    margin-top: 0;
+    position: absolute;
+    top: 20%;
+    right: 40%;
+   align-self: center;
+}
+
+.front{
+    margin-top: 0;
+    height: 100vh;
+    background-color: #E4F9F5;
+    text-align: center;
+    position: relative;
+    
+    
+}
+.front h1{
+    color:#66bfbf;
+    font-size: 562.3%;
+    margin-bottom: 0.1em;
+    font-family: 'Sacramento', cursive;
+
+}
+.front p{
+    margin-top: 2px;
+    font-size: 1.5em;
+
+}
+
+img{
+    height: 30%;
+    width: 40%;
+}
+.upcloud{
+    height: 11%;
+    width:13%;
+    position: absolute;
+    top: 13%;
+    right: 23%;
+}
+.downcloud{
+    height: 14%;
+    width: 17%;
+    position: absolute;
+    top: 35%;
+    left: 15%;
+}
+.mountain-img{
+    position: absolute;
+    height: 35%;
+    width: 50%;
+    bottom: 0px;
+    right: 25%;
+}
